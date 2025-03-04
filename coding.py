@@ -48,7 +48,6 @@ def plot_graphs(n, delta_values, r_values):
     plt.grid(True)
     plt.savefig(f"plot_N={n}.png")
 
-# Example Usage
 if __name__ == '__main__':
     n = int(input("Enter n: "))
     delta_values = list(map(int, input("Enter delta values (comma-separated): ").split(',')))
