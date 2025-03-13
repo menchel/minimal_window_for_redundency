@@ -1,5 +1,7 @@
 # minimal_window_for_redundency
 
+Code for project in Coding and algorithms for memories course (236379) at the Technion.
+
 This is a python code for creating a graph of the minimal window size for a given redundency bits.
 
 In order to run, you enter the n values needed, and then the deltas to check.
